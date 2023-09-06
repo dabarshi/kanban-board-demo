@@ -3,7 +3,7 @@ import logo from '../../assets/logos/logo.svg';
 const Navbar = () => {
     return (
         <>
-            <nav className='p-4 bg-lime-200 shadow-md'>
+            <nav className='p-4 bg-lime-200 shadow-md mb-5'>
                 {/* Brand Logo */}
                 <div>
                     <figure className='flex items-center gap-2'>
